@@ -1,0 +1,14 @@
+h1 {color:rgb(192, 55, 101); text-align:center;font-family:Franklin Gothic Medium;font-style:bold;font-size:50px;}
+h2 {color:darkslateblue;text-align:center;font-family:Lucidasans;font-size:30px;}
+body{background-color:lightslategray;}
+p{color:darkorchid;
+font-size:20px;}
+a:link{
+    text-decoration: none;
+}
+a:visited{
+    color: none;
+    text-decoration: none;
+}
+a:hover{color:darkmagenta;}
+/*Css comment test*/
