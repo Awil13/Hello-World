@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Awil13
-- 👀 I’m interested in web design
+- 👀 I’m interested in technical writing and web design
 - 🌱 I’m currently learning HTML and CSS
-- 💞️ I’m looking to collaborate on my personal website and other website repositories
+- 💞️ I’m looking to collaborate on technical writing repositories
 
 
 <!---
